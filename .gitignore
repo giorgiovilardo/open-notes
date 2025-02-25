@@ -1,0 +1,8 @@
+.DS_Store
+private/
+.obsidian/
+!.obsidian/workspace.json
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/core-plugins.json
+.trash/
