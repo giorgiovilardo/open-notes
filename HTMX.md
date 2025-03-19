@@ -310,25 +310,25 @@ The default, `innerHTML` value will be inside the blue border and destroy `.chil
 
 Places the response before the first child of the target.
 
-![[htmx_afterbegin.png]]
+![](assets/htmx_afterbegin.png)
 
 #### `beforebegin`
 
 Places the response before the target element, leaving the order of other elements in the parent untouched.
 
-![[htmx_beforebegin.png]]
+![](assets/htmx_beforebegin.png)
 
 #### `beforeend`
 
 Places the response after the last child of the target.
 
-![[htmx_beforeend.png]]
+![](assets/htmx_beforeend.png)
 
 #### `afterend`
 
 Places the element immediately after the target element.
 
-![[htmx_afterend.png]]
+![](assets/htmx_afterend.png)
 
 The names are a bit wonky, but it might help to think about `begin` and `end` as demarcation points of your element block, so the after/before can go into parent elements.
 
