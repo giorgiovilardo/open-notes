@@ -2,4 +2,4 @@
 
 ## MCP (ai)
 
- ![[mcp.gif]]
+ ![](assets/mcp.gif)
