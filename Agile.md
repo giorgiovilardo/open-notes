@@ -2,4 +2,4 @@ I found this image very satisfying, specially after having worked with certain w
 
 ![[assets/slower_faster.png]]
 
-[foo](assets/slower_faster)
+![](assets/slower_faster.png)
